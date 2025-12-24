@@ -71,3 +71,16 @@ To make Discord look better:
 **Q: Does it work on Mobile?** A: No, Vencord is for Desktop (Windows, Mac, Linux) and Web Browsers only.
 
 **Q: How do I update it?** A: Vencord usually updates itself. If it breaks after a Discord update, just run the installer again and click **Repair**.
+
+---
+
+## 🛡️ Safety & Privacy
+Based on my current configuration, I use these plugins to keep my account private:
+* **NoTrack**: Disables all Discord telemetry and analytics.
+* **SilentTyping**: Prevents others from seeing when I am typing a message.
+* **NoBlockedMessages**: Completely hides any trace of messages from users I have blocked.
+
+---
+
+## 📜 License
+This project is licensed under the **MIT License** - see the [License.txt](License.txt) file for details.
